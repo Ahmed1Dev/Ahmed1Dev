@@ -2,16 +2,16 @@
 ```js
 const Ahmed = {
     name: "Ahmed",
-    age: 17,
+    age: 18,
     from: "Egypt",
-    Discord: "! 𝗧𝗫 أحہــمہــد ٠#0033",
+    Discord: "! 'À7mèd, <3#0064",
     technologies: {
         backend: ["Node-js", "express"],
         database: ["Mysql", "MongoDB"],
         project: ["Firewall","Package"],
         others: ["Git", "GitHub", "NPM", "Cloudflare"]
     },
-    languages: ["Python", "HTML", "CSS", "JavaScript","EJS","C##","Typescript","Ruby","Ract"]
+    languages: ["Python", "HTML", "CSS", "JavaScript","EJS","C#","Typescript","Ruby","Ract"]
 };
 ```
 ---
