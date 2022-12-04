@@ -22,7 +22,7 @@ const Ahmed = {
 ---
 
 - ### High Project ⚒ :
-- <img src="https://cdn.discordapp.com/avatars/932843758687494235/b42b31827e9f5fc82243b6356027e118.png?size=1024" width="20" height="25"> [@Noura.](https://discord.gg/2umKWa9swq) | CEO & Founder
+- <img src="https://cdn.discordapp.com/avatars/1038628726486880276/def89ed794c7ec16366415fd8278bc3d.png?size=1024" width="20" height="25"> [@DanaBot 🌙](https://discord.gg/YbuCGsdFyv) | CEO & Founder
 
 ---
 - ![Only.Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed1Dev&show_icons=true&theme=radical)
