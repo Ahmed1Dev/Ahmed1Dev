@@ -1,6 +1,6 @@
 - ### Languages 🤩
 ```js
-const Ahmed = {
+const Ahmed1Dev = {
     name: "Ahmed",
     age: 18,
     from: "Egypt",
