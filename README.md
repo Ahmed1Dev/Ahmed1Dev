@@ -21,7 +21,7 @@ const Ahmed = {
 
 ---
 
-- ### High Project ⚒ :
+- ### Developer At ⚒ :
 - <img src="https://cdn.discordapp.com/emojis/1057535790487453716.webp?size=96&quality=lossless" width="20" height="25"> [@DanaBot 🌙](https://discord.gg/YbuCGsdFyv) | CEO & Founder
 
 ---
