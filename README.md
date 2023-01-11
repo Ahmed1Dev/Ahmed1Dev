@@ -4,7 +4,7 @@ const Ahmed1Dev = {
     name: "Ahmed",
     age: 18,
     from: "Egypt",
-    Discord: "RealAhmed.#0064",
+    Discord: "Moussa, Voxel.#0064",
     technologies: {
         backend: ["Node-js", "express"],
         database: ["Mysql", "MongoDB"],
