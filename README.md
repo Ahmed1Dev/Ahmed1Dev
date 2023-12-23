@@ -26,7 +26,7 @@ const Ahmed1Dev = {
 ---
 
 - ### Developer At ⚒ :
-- <img src="https://cdn.discordapp.com/emojis/1057535790487453716.webp?size=96&quality=lossless" width="20" height="25"> [@DanaBot 🌙](https://discord.gg/YbuCGsdFyv) | CEO & Founder
+- <img src="https://cdn.discordapp.com/emojis/1181964483971792966.webp?size=80&quality=lossless" width="20" height="25"> [@Volty](https://discord.gg/EwkrzMEmkY) | CEO & Founder
 
 ---
 - ![Only.Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed1Dev&show_icons=true&theme=radical)
