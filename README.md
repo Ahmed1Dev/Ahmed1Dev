@@ -2,9 +2,10 @@
 ```js
 const Ahmed1Dev = {
     name: "Ahmed",
+    nickname: "Moussa",
     age: 18,
     from: "Egypt",
-    Discord: "_.moussa",
+    Discord: "7a_u",
     technologies: {
         backend: ["Node-js", "express"],
         database: ["Mysql", "MongoDB"],
