@@ -15,19 +15,3 @@ const Ahmed1Dev = {
     languages: ["Python", "HTML", "CSS", "JavaScript","EJS","C#","Typescript","Ruby","Ract"]
 };
 ```
----
-
-- ### My Discord Profile 😊
-![Discord](https://discord.c99.nl/widget/theme-2/919719379439071242.png)
-
----
-- ### My Status Discord Profile 😊
-[![Discord Presence](https://lanyard.cnrad.dev/api/919719379439071242)](https://discord.com/users/919719379439071242)
-
----
-
-- ### Developer At ⚒ :
-- <img src="https://cdn.discordapp.com/emojis/1181964483971792966.webp?size=80&quality=lossless" width="20" height="25"> [@Volty](https://discord.gg/EwkrzMEmkY) | CEO & Founder
-
----
-- ![Only.Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed1Dev&show_icons=true&theme=radical)
